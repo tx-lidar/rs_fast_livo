@@ -1,0 +1,2 @@
+FAST_LIO:rs_to_velodyne:rslidar_sdk
+-DCATKIN_DEVEL_PREFIX=/home/bl/fastlivo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/bl/fastlivo_ws/install -G Unix Makefiles
